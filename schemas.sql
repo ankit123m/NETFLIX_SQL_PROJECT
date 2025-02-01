@@ -1,5 +1,5 @@
 
-CREATE TABLE netflix (
+CREATE TABLE NETFLIX (
 	show_id	VARCHAR(5),
 	type    VARCHAR(10),
 	title	VARCHAR(250),
